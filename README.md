@@ -30,5 +30,4 @@ This script automates daily AI-generated tasks, including text, image, and audio
 ```bash
 git clone https://github.com/thund3rbreath/hyperbolic-labs
 cd hyperbolic-labs
-pip install requests
 python main.py
