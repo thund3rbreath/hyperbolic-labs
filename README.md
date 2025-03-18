@@ -1,4 +1,4 @@
-# AI Task Automation Script  
+# Hyperbolic Task Automation Script  
 
 ## Overview  
 This script automates daily AI-generated tasks, including text, image, and audio generation. It interacts with the **Groq API** (for generating prompts) and the **Hyperbolic API** (for AI-generated content). Users can customize the number of tasks per day and duration.  
@@ -20,8 +20,8 @@ This script automates daily AI-generated tasks, including text, image, and audio
 git clone (https://github.com/thund3rbreath/hyperbolic-labs)
 cd hyperbolic-labs
 
-2. Install Dependencies
-
+###  2. Install Dependencies
+```bash
 pip install requests
 
 3. Set API Keys
@@ -29,7 +29,7 @@ pip install requests
 Replace GROQ_API_KEY and HYPERBOLIC_API_KEY in the script with your actual API keys.
 
 4. Run the Script
-
+```bash
 python main.py
 
 5. Follow the Prompts
