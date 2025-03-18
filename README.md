@@ -13,6 +13,17 @@ This script automates daily AI-generated tasks, including text, image, and audio
 - Python 3.x  
 - `requests` module (`pip install requests`)  
 
+## 🔐 How to Get an API Key
+
+### 1. **Groq API Key (TEXT, IMAGE, AUDIO prompt)**
+- Visit: [https://console.groq.com/keys](https://console.groq.com/keys)
+- Click `+ New Key`, and copy API Key
+  
+
+### 2. **Hyperbolic API Key **
+- visit: [https://hyperbolic.xyz](https://hyperbolic.xyz)
+- Login, go to settings and get api key
+- 
 ## Setup  
 
 ### 1. Clone the Repository  
